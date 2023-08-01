@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Mercado Libre Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Mercado Libre Tests(failed)" verbose="0">
+    <classes>
+      <class name="mercadolibre.tests.ResultsTests">
+        <methods>
+          <include name="saveResultsToFileTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- mercadolibre.tests.ResultsTests -->
+    </classes>
+  </test> <!-- Mercado Libre Tests(failed) -->
+</suite> <!-- Failed suite [Mercado Libre Test Suite] -->

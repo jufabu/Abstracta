@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 37.612 s <<< FAILURE! - in TestSuite
+mercadolibre.tests.ResultsTests.saveResultsToFileTest  Time elapsed: 30.652 s  <<< FAILURE!
+java.nio.file.InvalidPathException: Illegal char <:> at index 2: /C:/productos-mercado-libre/productos-mercado-libre/target/test-classes/products.txt
+	at mercadolibre.tests.ResultsTests.saveResultsToFileTest(ResultsTests.java:21)
+

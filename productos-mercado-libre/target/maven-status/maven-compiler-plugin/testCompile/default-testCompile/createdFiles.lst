@@ -1,0 +1,11 @@
+mercadolibre\pom\models\Result.class
+mercadolibre\utils\WebDriverUtils.class
+mercadolibre\utils\GetProperties.class
+mercadolibre\utils\FileUtils.class
+mercadolibre\utils\WaitUtils.class
+mercadolibre\pom\base\BasePage.class
+mercadolibre\pom\pages\ResultsPage.class
+mercadolibre\pom\pages\HomePage.class
+mercadolibre\tests\ResultsTests.class
+mercadolibre\utils\Constants.class
+mercadolibre\tests\BaseTest.class
